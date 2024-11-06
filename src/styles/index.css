@@ -1,5 +1,12 @@
+@import url(./reset.css);
+@import url(./layout.css);
+
 * {
   box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
 }
 
 :root {
